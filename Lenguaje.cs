@@ -6,7 +6,7 @@
     4. Generar código en ensamblador para Console.Write y Console.WriteLine
     5. Generar código en ensamblador para Console.Read y Console.ReadLine
     6. Programar el While 
-    7. Programar el For
+    7. Programar el For 8
     8. Programar el else
     9. Usar set y get en variable
     10. Ajustar todos los constructores con parámetros por default
