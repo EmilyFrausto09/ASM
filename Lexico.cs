@@ -237,7 +237,7 @@ namespace ASM
                 return 25;
             }
         }
-        private void Clasifica(int estado)
+        public void Clasifica(int estado)
         {
             switch (estado)
             {

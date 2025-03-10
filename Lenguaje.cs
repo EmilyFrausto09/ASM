@@ -31,25 +31,28 @@ namespace ASM
             ifContador = whileContador = doWhileContador = forContador = 1;
         }
 
-        private void displayStack()
-        {
-            Console.WriteLine("Contenido del stack: ");
-            foreach (float elemento in s)
-            {
-                Console.WriteLine(elemento);
-            }
-        }
+private void displayLista()
+{
+    asm.WriteLine("SECTION .DATA");
+    log.WriteLine("Lista de variables: ");
 
-        private void displayLista()
-        {
-            asm.WriteLine("SECTION .DATA");
-            log.WriteLine("Lista de variables: ");
-            foreach (Variable elemento in l)
-            {
-                log.WriteLine($"{elemento.getNombre()} {elemento.GetTipoDato()} {elemento.getValor()}");
-                asm.WriteLine($"{elemento.getNombre()} DW 0");
-            }
-        }
+    // Asegurar que TODAS las variables sean declaradas
+    foreach (Variable elemento in l)
+    {
+        string tipo = elemento.GetTipoDato() == Variable.TipoDato.Float ? "DD" : "DW";
+        asm.WriteLine($"{elemento.getNombre()} {tipo} 0"); // Se inicializa con 0
+    }
+
+    // Declaraciones de buffer y formatos
+    asm.WriteLine("buffer TIMES 256 DB 0");  // Buffer para entrada de datos
+    asm.WriteLine("fmt_int_in DB \"%d\", 0");
+    asm.WriteLine("fmt_int_out DB \"%d\", 10, 0");
+    asm.WriteLine("fmt_str_out DB \"%s\", 10, 0");
+    asm.WriteLine("dummy_var DB 0");  // Evitar problemas con líneas vacías
+    asm.WriteLine("\n");
+}
+
+
 
         //Programa  -> Librerias? Variables? Main
         public void Programa()
