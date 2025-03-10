@@ -1,0 +1,15 @@
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\bin\Debug\net9.0\ASM.exe
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\bin\Debug\net9.0\ASM.deps.json
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\bin\Debug\net9.0\ASM.runtimeconfig.json
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\bin\Debug\net9.0\ASM.dll
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\bin\Debug\net9.0\ASM.pdb
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.AssemblyInfoInputs.cache
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.AssemblyInfo.cs
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.csproj.CoreCompileInputs.cache
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.sourcelink.json
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.dll
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\refint\ASM.dll
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.pdb
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ASM.genruntimeconfig.cache
+C:\Users\fraus\OneDrive\Documentos\SEMESTRE ENERO-AGOSTO\Automatas 2\ASM\obj\Debug\net9.0\ref\ASM.dll
